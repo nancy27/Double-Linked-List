@@ -1,2 +1,2 @@
 # Double-Linked-List
-This has methods of doubly linked list
+TThis provides a data structure of Double linked list and the implementations of its methods in java
